@@ -7,14 +7,26 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### 1. Is your feature request related to a problem?  
+**Please describe clearly**:  
+*Example: "I'm frustrated when [describe the problem] because [impact]."*  
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+💡 *Optional: Add checkboxes to classify the request:*  
+- [ ] Bug-related fix  
+- [ ] Enhancement  
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### 2. Describe the solution you'd like  
+**Clear and concise description of your ideal solution**:  
+*Example: "The system should [describe behavior] when [trigger condition]."*  
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### 3. Describe alternatives you've considered  
+**List any workarounds or other approaches you've tried/rejected**:  
+
+### 4. Additional context  
+**Attach**: [ ] Screenshots | [ ] Logs | [ ] API examples  
+
+💡 *Optional additions (uncomment if needed):*  
+<!--  
+**Technical constraints**: [e.g., dependencies, performance requirements]  
+**Priority**: [High/Medium/Low]  
+-->
